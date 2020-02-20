@@ -11,4 +11,4 @@ Free IAM AUTH can authenticate users on systems such as 802.1x (WiFi), dialup, P
 
 License and Author
 
-Author:: juvin92j0n@yahoo.com Copyright:: 2015 Juvin Jon Controlled Full Free for All anyone can use and Developed.
+Copyright:: 2015 Juvin Jon Controlled Full Free for All anyone can use and Developed.
